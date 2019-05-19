@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Phicomm Launcherr</string>
+    <string name="launcher_selector">Select Launcher</string>
+    <string name="btn_settings">System Settings</string>
+    <string name="btn_launcher">Launcher</string>
+    <string name="msg_launcher_fail">Launch failed! Try another!</string>
+</resources>

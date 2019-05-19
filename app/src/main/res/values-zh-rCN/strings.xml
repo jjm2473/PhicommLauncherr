@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">斐讯启动器砖家</string>
+    <string name="launcher_selector">选择启动器</string>
+    <string name="btn_settings">系统设置</string>
+    <string name="btn_launcher">启动器</string>
+    <string name="msg_launcher_fail">启动失败！请重新选择</string>
+</resources>
